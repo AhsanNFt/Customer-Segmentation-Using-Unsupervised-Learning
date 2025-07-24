@@ -34,6 +34,7 @@ The project followed these key steps:
 
 ## 📉 Visualizations
  #### Age Distribution
+<img width="608" height="462" alt="image" src="https://github.com/user-attachments/assets/e50a1779-15f4-4e5c-8e7d-de5d945fdce1" />
 
  **Insights:**
 - Majority of mall customers are aged 20 to 40.
@@ -41,6 +42,7 @@ The project followed these key steps:
 - This shows that young and mid-age are possibly active shoppers.
 
  #### Gender Distribution
+<img width="596" height="453" alt="image" src="https://github.com/user-attachments/assets/6729f336-1c13-4b8e-bc04-835c7506569f" />
 
  **Insights:**
 - Slight skew towards female customers.
@@ -48,6 +50,7 @@ The project followed these key steps:
 - Marketing strategies could be tailored with a female-oriented focus.
 
  #### Income vs Spending Score by Gender
+<img width="653" height="447" alt="image" src="https://github.com/user-attachments/assets/d3d10c0e-a5ce-4171-98cd-03de4e40a7a7" />
 
  **Insights:**
 - People with the same income spend very differently.
@@ -57,6 +60,7 @@ The project followed these key steps:
 - This tells us that spending habits don't depend only on income, so grouping customers makes sense.
 
 #### Optimal Cluster Selection (Elbow Method)
+<img width="631" height="464" alt="image" src="https://github.com/user-attachments/assets/2a59d875-dcfb-4e98-9aa8-e4c7d9ff98df" />
 
 **Insights:**
 - As the number of clusters increases, inertia (within-cluster variance) decreases.
@@ -99,13 +103,14 @@ The project followed these key steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/customer-segmentation-unsupervised.git
+git clone https://github.com/AhsanNFt/Customer-Segmentation-Using-Unsupervised-Learning.git
+
 
 # Navigate into the directory
-cd customer-segmentation-unsupervised
+cd Customer-Segmentation-Using-Unsupervised-Learning
 
 # Open the notebook
-jupyter notebook "Customer Segmentation using Unsupervised Learning.ipynb"
+jupyter notebook "Customer Segmentation using Unsupervised Learning_Dev.ipynb"
 ```
 
 ---
@@ -119,5 +124,5 @@ Feel free to fork the repository, raise issues, or suggest improvements through 
 ## 📬 Contact
 
 For questions or suggestions:  
-- GitHub: `YourUsername`  
-- Email: `youremail@example.com`  
+- GitHub: `AhsanNFt`  
+- Email: syedahsan0991@gmail.com 
